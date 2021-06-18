@@ -1,3 +1,6 @@
+
+const MAX_POINTS: u32 = 100_00;
+
 fn main() {
     let mut x = 5;
     println!("The value of x is: {}", x);
